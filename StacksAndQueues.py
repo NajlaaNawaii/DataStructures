@@ -15,12 +15,12 @@ stack.pop()
 
 #
 ##QUEUES
-#queue=[] #it's just a LIST!
-#queue.append(1)
-#queue.append(3)
-#queue.append(5)
-#print(queue)
-#queue.pop(0)
-#print(queue)
-#print(queue[-1]) #top most
-#queue.pop(0)
+queue=[] #it's just a LIST!
+queue.append(1)
+queue.append(3)
+queue.append(5)
+print(queue)
+queue.pop(0)
+print(queue)
+print(queue[-1]) #top most
+queue.pop(0)
